@@ -182,16 +182,10 @@ They should not currently be assumed to execute independently or in a particular
 
 ## 6. Dependencies
 
-The Python dependencies are listed in:
+The python dependencies are outlined in the environment file: 
 
 ```text
-requirements.txt
-```
-
-Install using:
-
-```bash
-pip install -r requirements.txt
+teamx_environemnt.yml
 ```
 
 The code uses scientific Python libraries for numerical calculations, interpolation, atmospheric data processing, and visualisation.

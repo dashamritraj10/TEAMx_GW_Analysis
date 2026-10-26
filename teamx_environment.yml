@@ -1,0 +1,22 @@
+name: teamx
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - iris
+  - ipympl
+  - scipy
+  - ipython
+  - pyproj
+  - netcdf4
+  - ipykernel
+  - nbformat
+  - shapely
+  - plotly
+  - xarray
+  - python=3.12
+  - cartopy
+  - matplotlib
+  - numpy
+  - dask
+  - simplekml
