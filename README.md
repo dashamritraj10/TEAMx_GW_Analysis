@@ -119,6 +119,16 @@ The code broadly follows the workflow:
                      |
                Output figures
 ```
+### Step 0 — Prerequisite: Data Preprocessing
+
+**The analysis requires data preprocessed using
+https://github.com/tbanyard/TEAMxRadiosondes_Public**
+
+Before running any of the analysis scripts, follow the preprocessing
+procedure described in the linked repository.
+
+The output of this preprocessing stage serves as the input to the
+momentum-flux calculations implemented here.
 
 ### Step 1 — Load Atmospheric Profiles
 
