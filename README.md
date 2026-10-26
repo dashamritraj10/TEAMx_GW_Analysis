@@ -127,6 +127,8 @@ https://github.com/tbanyard/TEAMxRadiosondes_Public**
 Before running any of the analysis scripts, follow the preprocessing
 procedure described in the linked repository.
 
+The radiosonde arrays used for the analysis below corresponds to output from the script "RasoThroughModel.py" linked  in the external repository.
+
 The output of this preprocessing stage serves as the input to the
 momentum-flux calculations implemented here.
 
